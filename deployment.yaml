@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: anraj/hello-world:v1
+        image: chiths1616/hello-world:v1
         ports:
         - containerPort: 5000
